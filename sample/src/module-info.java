@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author shinhw
+ *
+ */
+module sample {
+}
